@@ -13,8 +13,8 @@
 }
 #box2{
     position: absolute;
-    top: 60px;
-    left: 60px;
+    top: 70px;
+    left: 40px;
     background-color: yellow;
     color: black;
     padding: 10px;
@@ -26,8 +26,8 @@
 }
 #box3{
     position: absolute;
-    top: 120px;
-    left: 120px;
+    top: 140px;
+    left: 80px;
     background-color: blue;
     color: white;
     padding: 10px;
@@ -39,8 +39,8 @@
 }
 #box4{
     position: absolute;
-    top: 180px;
-    left: 180px;
+    top: 210px;
+    left: 120px;
     background-color: red;
     color: white;
     padding: 10px;
